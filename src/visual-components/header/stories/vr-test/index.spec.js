@@ -1,3 +1,3 @@
 import { VisualRegressionTest } from '../../../../../lib/test/visual-regression-test';
 
-new VisualRegressionTest(__dirname, 'header').run();
+new VisualRegressionTest(__dirname, 'header-component').run();

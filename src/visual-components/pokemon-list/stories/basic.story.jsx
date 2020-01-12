@@ -110,6 +110,7 @@ const data = [
 ];
 
 export const test = {
+  title: "Test list",
   data,
   loading: false,
 };
